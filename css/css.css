@@ -114,6 +114,7 @@
   .f16,
   .f16 * {
     font-size: 0.83vw !important;
+    text-align: justify;
   }
 
   .montserrat-r,
